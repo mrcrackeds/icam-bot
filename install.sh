@@ -1,22 +1,3 @@
-apt install ffmpeg
-
-apt install wget
-
-apt install nodejs
-
-apt install npm
-
-npm i -g cwebp
-
-npm i node-tesseract-ocr
-
-npm i -g ytdl
-
-npm i
-
-npm i got
-
-
 pkg install ffmpeg 
 
 pkg install wget
