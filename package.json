@@ -1,7 +1,7 @@
 {
   "name": "MR.CRACKED",
   "version": "1.0.0",
-  "description": "termux, kali linux, linux, google cloud shell console, DLL",
+  "description": "termux, google cloud shell console",
   "main": "index.js",
   "directories": {
     "lib": "lib"
