@@ -8,7 +8,7 @@ const MRCRACKED = 'MR.CRACKED'; // JANGAN DI UBAH NANTI ERROR
 const instagram = 'https://instagram.com/cracked_212'; // JANGAN DI UBAH NANTI ERROR
 const nomer = 'https://Wa.me/+628978049825'; // JANGAN DI UBAH NANTI ERROR
 const aktif = 'Sesuai Selera'; // DI GANTI AUTO ERROR
-const groupwa = 'https://chat.whatsapp.com/KXsclksFU477TlSWMyiGm7'; // DI GANTI AUTO ERROR
+const groupwa = 'https://chat.whatsapp.com/GqI1BaTYjupFtszKJDVfMn && https://chat.whatsapp.com/LqGaJtwqh5QK2vmBNWngjm'; // DI GANTI AUTO ERROR
 const youtube = 'https://www.youtube.com/channel/UCP_pGBqwyn-Tu2Fh1vh1umQ'; // DI GANTI AUTO ERROR
 //
 const qrcode = require("qrcode-terminal");
