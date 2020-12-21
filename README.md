@@ -58,8 +58,8 @@ kalo lu belum punya apk termux, download di playstore
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/icammaci/icam-bot
-> cd XP-TNNBOT
-> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
+> cd icam-bot
+> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index.js
 > Tinggal scan kode qr yeee...done
 ```
 ### install bahan² untuk PC/RDP
