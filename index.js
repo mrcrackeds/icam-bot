@@ -1,7 +1,7 @@
 /*
 * "Jangan modal nama doang BROOO !!!"
 * Scriptnya MR.CRACKED
-* hargai pembuat script woy!!! DI UBAH AUTO ERROR GAN
+* hargai pembuat skrip woy!!! DI UBAH AUTO ERROR GAN
 * OK
 */
 const MRCRACKED = 'MR.CRACKED'; // JANGAN DI UBAH NANTI ERROR
@@ -165,7 +165,7 @@ else if (text == 'Anjing'){
 conn.sendMessage(id, 'Jangan toxic anjing' ,MessageType.text);
 }
 else if (text == 'Bacot'){
-conn.sendMessage(id, 'lu lebih bacot_-' ,MessageType.text);
+conn.sendMessage(id, 'lu bacot_-' ,MessageType.text);
 }
 else if (text == 'Test'){
 conn.sendMessage(id, 'Test 1,2,3 ketik .help' ,MessageType.text);
@@ -174,7 +174,7 @@ else if (text == 'Hai'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == '.ttp'){
-conn.sendMessage(id, ' *COMMAND PREMIUM CHAT WA https://wa.me/6285842748544*' ,MessageType.text);
+conn.sendMessage(id, ' *COMMAND PREMIUM CHAT WA https://wa.me/6285842748544* ' ,MessageType.text);
 }
 else if (text == 'Woi'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
@@ -186,7 +186,7 @@ else if (text == 'Hi'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == 'Gan'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
 }
 else if (text == 'Sis'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
@@ -216,7 +216,7 @@ else if (text == 'Cuy'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == '.frendsowner'){
-conn.sendMessage(id, 'kawan  wa.me/+6285842748544' ,MessageType.text);
+conn.sendMessage(id, 'kawan  wa.me/6285842748544' ,MessageType.text);
 }
 else if (text == '.coowner'){
 conn.sendMessage(id, 'kawan testing script wa.me/+6285842748544' ,MessageType.text);
@@ -1233,7 +1233,7 @@ _${kata}_
     
     });
     }
-
+   
    if (text.includes(".loli"))
    {
     var items = ["anime loli","anime loli sange","anime loli fackgirll","anime loli i love you"];
@@ -1490,7 +1490,7 @@ if (text.includes(".randomhentai"))
     
     axios.get(url)
       .then((result) => {
-        var b = JSON.parse(JSON.(result.data));
+        var b = JSON.parse(JSON.stringify(result.data));
         var cewek =  b[Math.floor(Math.random() * b.length)];
         imageToBase64(cewek) // Path to the image
         .then(
