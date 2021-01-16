@@ -1,7 +1,7 @@
 /*
 * "Jangan modal nama doang BROOO !!!"
 * Scriptnya MR.CRACKED
-* hargai pembuat skrip woy!!! DI UBAH AUTO ERROR GAN
+* hargai pembuat script woy!!! DI UBAH AUTO ERROR GAN
 * OK
 */
 const MRCRACKED = 'MR.CRACKED'; // JANGAN DI UBAH NANTI ERROR
@@ -147,7 +147,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '.owner'){
-conn.sendMessage(id, 'Owner Icam bot wa.me/+628978049825' ,MessageType.text);
+conn.sendMessage(id, 'Owner Icam bot wa.me/6285842748544' ,MessageType.text);
 }
 else if (text == 'Maslent'){
 conn.sendMessage(id, 'aku pembuat Icam bot' ,MessageType.text);
@@ -165,7 +165,7 @@ else if (text == 'Anjing'){
 conn.sendMessage(id, 'Jangan toxic anjing' ,MessageType.text);
 }
 else if (text == 'Bacot'){
-conn.sendMessage(id, 'lu bacot_-' ,MessageType.text);
+conn.sendMessage(id, 'lu lebih bacot_-' ,MessageType.text);
 }
 else if (text == 'Test'){
 conn.sendMessage(id, 'Test 1,2,3 ketik .help' ,MessageType.text);
@@ -174,7 +174,7 @@ else if (text == 'Hai'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == '.ttp'){
-conn.sendMessage(id, ' *COMMAND PREMIUM CHAT WA https://wa.me/6285842748544' ,MessageType.text);
+conn.sendMessage(id, ' *COMMAND PREMIUM CHAT WA https://wa.me/6285842748544*' ,MessageType.text);
 }
 else if (text == 'Woi'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
