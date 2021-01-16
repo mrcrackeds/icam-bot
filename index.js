@@ -6,7 +6,7 @@
 */
 const MRCRACKED = 'MR.CRACKED'; // JANGAN DI UBAH NANTI ERROR
 const instagram = 'https://instagram.com/cracked_212'; // JANGAN DI UBAH NANTI ERROR
-const nomer = 'https://Wa.me/+628978049825'; // JANGAN DI UBAH NANTI ERROR
+const nomer = 'https://Wa.me/6285842748544'; // JANGAN DI UBAH NANTI ERROR
 const aktif = 'Sesuai Selera'; // DI GANTI AUTO ERROR
 const groupwa = 'https://chat.whatsapp.com/GqI1BaTYjupFtszKJDVfMn && https://chat.whatsapp.com/LqGaJtwqh5QK2vmBNWngjm'; // DI GANTI AUTO ERROR
 const youtube = 'https://www.youtube.com/channel/UCP_pGBqwyn-Tu2Fh1vh1umQ'; // DI GANTI AUTO ERROR
@@ -171,34 +171,34 @@ else if (text == 'Test'){
 conn.sendMessage(id, 'Test 1,2,3 ketik .help' ,MessageType.text);
 }
 else if (text == 'Hai'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == '.ttp'){
-conn.sendMessage(id, ' *COMMAND PREMIUM CHAT WA https://wa.me/628978049825* ' ,MessageType.text);
+conn.sendMessage(id, ' *COMMAND PREMIUM CHAT WA https://wa.me/6285842748544'* ' ,MessageType.text);
 }
 else if (text == 'Woi'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == 'Eoy'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == 'Hi'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == 'Gan'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == 'Sis'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == 'Bro'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == 'Min'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == 'Sayang'){
-conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == 'I love u'){
 conn.sendMessage(id, 'love you too' ,MessageType.text);
@@ -216,10 +216,10 @@ else if (text == 'Cuy'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == '.frendsowner'){
-conn.sendMessage(id, 'kawan  wa.me/+628978049825' ,MessageType.text);
+conn.sendMessage(id, 'kawan  wa.me/+6285842748544' ,MessageType.text);
 }
 else if (text == '.coowner'){
-conn.sendMessage(id, 'kawan testing script wa.me/+628978049825' ,MessageType.text);
+conn.sendMessage(id, 'kawan testing script wa.me/+6285842748544' ,MessageType.text);
 }
 else if (text == '.groupbot'){
 conn.sendMessage(id, 'group bot whatsapp https://chat.whatsapp.com/KXsclksFU477TlSWMyiGm7' ,MessageType.text);
