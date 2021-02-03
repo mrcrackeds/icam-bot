@@ -56,7 +56,7 @@ Script ini di modifikasi sama saya sendiri MR.CRACKED
 kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage
-> pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
+> pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs && pkg install npm
 > apt update && apt upgrade
 > git clone https://github.com/icammaci/icam-bot
 > cd icam-bot
