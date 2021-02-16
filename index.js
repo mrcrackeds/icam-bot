@@ -5,11 +5,12 @@
 * OK
 */
 const MRCRACKED = 'MR.CRACKED'; // JANGAN DI UBAH NANTI ERROR
-const instagram = 'https://instagram.com/cracked_212'; // JANGAN DI UBAH NANTI ERROR
-const nomer = 'https://Wa.me/6285842748544'; // JANGAN DI UBAH NANTI ERROR
+const instagram = 'https://instagram.com/rein_hakunesha'; // JANGAN DI UBAH NANTI ERROR
+const nomer = 'https://Wa.me/6285259308763'; // JANGAN DI UBAH NANTI ERROR
 const aktif = 'Sesuai Selera'; // DI GANTI AUTO ERROR
-const groupwa = 'https://chat.whatsapp.com/GqI1BaTYjupFtszKJDVfMn && https://chat.whatsapp.com/LqGaJtwqh5QK2vmBNWngjm'; // DI GANTI AUTO ERROR
-const youtube = 'https://www.youtube.com/channel/UCP_pGBqwyn-Tu2Fh1vh1umQ'; // DI GANTI AUTO ERROR
+const groupwa = ' && 
+'; // DI GANTI AUTO ERROR
+const youtube = ''; // DI GANTI AUTO ERROR
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
